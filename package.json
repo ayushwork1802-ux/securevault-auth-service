@@ -1,0 +1,7 @@
+{
+  "name": "securevault-auth-service",
+  "version": "1.0.0",
+  "description": "Production module for securevault-auth-service",
+  "author": "Ayush Chandra",
+  "license": "MIT"
+}
